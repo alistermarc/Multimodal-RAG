@@ -1,0 +1,63 @@
+Page number,Layout,Text,Reading Order,Confidence score % (Layout)
+1,Title 1,Home Energy Report: electricity,0,30.859375
+1,Text 1,March report Account number: 954137 Service address: 1627 Tulip Lane,1,26.9775390625
+1,Text 2,"Dear JILL DOE, here is your usage analysis for March.",2,84.86328125
+1,Text 3,Your electric use:,3,88.76953125
+1,Text 4,Above typical use,4,79.8828125
+1,Text 5,18% more than similar nearby homes,5,86.328125
+1,Figure 1,"The image features a bar graph that compares energy usage in kilowatt-hours (kWh) among three categories:
+
+1. **You**: Represented by a large blue bar indicating a usage of 125 kWh.
+2. **Similar nearby homes**: Displayed as an orange bar, showing a usage of 103 kWh.
+3. **Efficient nearby homes**: Illustrated with a green bar, demonstrating the lowest usage at 49 kWh.
+
+Each category is clearly labeled, and the graph visually emphasizes that the energy consumption from ""You"" is 18% higher than that of ""Similar nearby homes."" The layout allows for easy comparison among the three groups based on their respective energy usage.",6,89.599609375
+1,Text 6,Nearby homes are defined as,7,82.373046875
+1,Figure 2,icon,8,66.259765625
+1,Text 7,Other homes with electricity,9,94.580078125
+1,Figure 3,icon,10,94.23828125
+1,Text 8,Homes within 9 km,11,91.943359375
+1,Figure 4,icon,12,96.38671875
+1,Text 9,Homes within +/- 300 sq. ft.,13,95.1171875
+1,Text 10,"Nearby homes are based on fuel, distance and size. Square footage is collected from public information sources. Efficient nearby homes are the top 15 per cent efficient of similar-sized homes nearby.",14,95.361328125
+1,Text 11,Monthly savings tip: Do full laundry loads.,15,94.3359375
+1,Text 12,Waiting until you have a full load to run your laundry can save up to 6% of your energy use.,16,95.751953125
+1,Figure 5,"The image features a woman holding a colorful chart or poster in one hand, while standing beside a washing machine. The woman has a hairstyle pulled back in a bun and is dressed in a purple top and orange pants. The washing machine is illustrated with a circular door, and there are basic details on the machine's interface. Overall, the image conveys a focus on laundry practices, likely aligning with energy-saving tips.",17,91.162109375
+1,Text 13,Watch this space for new ways to save energy each month.,18,92.48046875
+1,Footer 1,Turn over for more savings ideas.,19,72.265625
+1,Figure 6,icon,20,65.771484375
+2,Title 2,Your top three tailored energy-saving tips,21,69.775390625
+2,Text 14,Caulk windows and doors Save money and energy,22,80.76171875
+2,Text 15,One of the biggest money-wasters in your home is drafty windows and doors. Caulking drafty areas is a simple DIY project that will pay off.,23,87.20703125
+2,Figure 7,icon,24,96.58203125
+2,Text 16,Upgrade your refrigerator Look for an Energy Star label,25,78.125
+2,Text 17,Older model refrigerators are very inefficient. You can make up the cost of a new Energy Star refrigerator in energy savings in just a few years.,26,95.703125
+2,Text 18,Adjust thermostat settings Biggest energy saving option,27,94.775390625
+2,Figure 8,icon,28,96.77734375
+2,Text 19,Set your smart thermostat to save more 78�� energy during high-cost hours. Pre-heat your home on cold days so that you can save more energy.,29,74.609375
+2,Figure 9,icon,30,95.654296875
+2,Figure 10,"The image is a line graph that compares electricity usage in kilowatt-hours (kWh) over several months, specifically from April to March, among three categories: ""You,"" ""Similar Homes,"" and ""Efficient Homes.""
+
+### Key Features:
+
+- **Axis**: 
+  - The vertical axis (y-axis) represents electricity usage in kilowatt-hours (kWh), ranging from 0 to 200 kWh.
+  - The horizontal axis (x-axis) denotes the months from April to March.
+
+- **Data Lines**: 
+  - **You**: Represented by a blue line. It shows varying usage levels throughout the months.
+  - **Similar Homes**: Indicated by an orange line, which fluctuates but generally stays above your usage.
+  - **Efficient Homes**: Shown with a green line, indicating lower electricity usage compared to both ""You"" and ""Similar Homes.""
+
+### Trends:
+- The blue line for ""You"" shows peaks and dips over the months, indicating fluctuating electricity consumption.
+- The orange line for ""Similar Homes"" is consistently higher than the blue line, suggesting that the user's consumption is lower compared to similar homes.
+- The green line for ""Efficient Homes"" consistently remains the lowest, illustrating the least energy usage among the categories.
+
+Overall, the graph visually communicates how the user's electricity consumption compares with that of similar and more energy-efficient homes throughout the specified period.",31,90.966796875
+2,Text 20,Save more this spring,32,70.556640625
+2,Text 21,Reduce use and save money on your electric bill with these thorough tips from the kitchen to the laundry room.,33,88.134765625
+2,Figure 11,icon,34,95.01953125
+2,Text 22,Evaluate your energy efficiency,35,51.3671875
+2,Figure 12,icon,36,95.60546875
+2,Text 23,Bring in the professionals! Assess your home's energy efficiency with a Home Energy Audit.,37,77.880859375
