@@ -1,5 +1,0 @@
-boto3 
-python-dotenv
--Uq langchain_openai
-chromadb
-rank_bm25
